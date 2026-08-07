@@ -1,0 +1,20 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+credentials/
+credential*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Restricted operational material belongs outside Git
+private/
+restricted/
+tenant-exports/
+outputs/
+
+# Microsoft Office temporary files
+~$*
+
