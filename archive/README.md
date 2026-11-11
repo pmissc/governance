@@ -6,4 +6,4 @@ Archived documents should identify the replacement document when one exists and 
 
 ## Historical summaries
 
-- [August 2026 Microsoft 365 Handover](2026-08-m365-handover/) — sanitized, unverified source summary; not operating guidance.
+- [August 2026 Microsoft 365 Handover](2026-08-m365-handover/) — sanitized record of the legacy design and an assessment of each recommendation; not operating guidance.
